@@ -1,0 +1,80 @@
+{
+  "WaterCooling": [
+    { "EAF": 1, "TinRoof": 35, "TinShell": 31, "TOutRoof": 39, "TOutShell": 35, "RooDebit": 521.2, "ShellDebit": 984.2 },
+    { "EAF": 2, "TinRoof": 34, "TinShell": 30, "TOutRoof": 38, "TOutShell": 34, "RooDebit": 520.5, "ShellDebit": 983.5 },
+    { "EAF": 3, "TinRoof": 36, "TinShell": 32, "TOutRoof": 40, "TOutShell": 36, "RooDebit": 522.0, "ShellDebit": 985.0 },
+    { "EAF": 4, "TinRoof": 33, "TinShell": 29, "TOutRoof": 37, "TOutShell": 33, "RooDebit": 519.8, "ShellDebit": 982.8 },
+    { "EAF": 5, "TinRoof": 35, "TinShell": 31, "TOutRoof": 39, "TOutShell": 35, "RooDebit": 521.5, "ShellDebit": 984.5 },
+    { "EAF": 6, "TinRoof": 34, "TinShell": 30, "TOutRoof": 38, "TOutShell": 34, "RooDebit": 520.8, "ShellDebit": 983.8 },
+    { "EAF": 7, "TinRoof": 36, "TinShell": 32, "TOutRoof": 40, "TOutShell": 36, "RooDebit": 522.2, "ShellDebit": 985.2 },
+    { "EAF": 8, "TinRoof": 33, "TinShell": 29, "TOutRoof": 37, "TOutShell": 33, "RooDebit": 520.0, "ShellDebit": 983.0 }
+  ],
+
+  "DustAnalysis": [
+    { "Al2O3": 0.82, "C": 3.85, "CaO": 24.1, "FeO": 11.5, "Fem": 39, "MgO": 5.2, "P": 0.02, "S": 0.003, "SiO2": 4.56, "TiO2": 0.11 }
+  ],
+
+  "Additives": [
+    {
+      "CaO": 58,
+      "MgO": 36.5,
+      "CO2": 3.5,
+      "C": 1,
+      "SiO2": 1,
+      "CaO_2": 94,
+      "MgO_2": 1.5,
+      "CO2_2": 2.5,
+      "C_2": 0.8,
+      "SiO2_2": 0.4,
+      "Cfix": 84.5,
+      "Ash": 13.8,
+      "SiO2_in_Ash": 6.2,
+      "Volatile_matter": 1.65,
+      "S": 0.9,
+      "Moisture": 1.35,
+      "Cfix_2": 97.62,
+      "Ash_2": 0.5,
+      "SiO2_in_Ash_2": 0.25,
+      "Volatile_matter_2": 1.65,
+      "S_2": 0.9,
+      "Moisture_2": 1.35
+    }
+  ],
+
+  "GradeSpecification": [],
+
+  "ChemicalEnergyThreshold": [
+    { "EAF": 1, "FirstThreshold": 500, "SecondThreshold": 550, "ThirdThreshold": 600 },
+    { "EAF": 2, "FirstThreshold": 495, "SecondThreshold": 545, "ThirdThreshold": 595 },
+    { "EAF": 3, "FirstThreshold": 505, "SecondThreshold": 555, "ThirdThreshold": 605 },
+    { "EAF": 4, "FirstThreshold": 490, "SecondThreshold": 540, "ThirdThreshold": 590 },
+    { "EAF": 5, "FirstThreshold": 500, "SecondThreshold": 550, "ThirdThreshold": 600 },
+    { "EAF": 6, "FirstThreshold": 498, "SecondThreshold": 548, "ThirdThreshold": 598 },
+    { "EAF": 7, "FirstThreshold": 502, "SecondThreshold": 552, "ThirdThreshold": 602 },
+    { "EAF": 8, "FirstThreshold": 492, "SecondThreshold": 542, "ThirdThreshold": 592 }
+  ],
+
+  "ChemicalEnergyRHS": {
+    "LtFirstThreshold": 550,
+    "LtSecondThreshold": 600,
+    "LtThirdThreshold": 650,
+    "GtThirdThreshold": 700
+  },
+
+  "TermYield": [
+    { "EAF": 1, "Yield": 0.95 },
+    { "EAF": 2, "Yield": 0.94 },
+    { "EAF": 3, "Yield": 0.96 },
+    { "EAF": 4, "Yield": 0.93 },
+    { "EAF": 5, "Yield": 0.95 },
+    { "EAF": 6, "Yield": 0.94 },
+    { "EAF": 7, "Yield": 0.96 },
+    { "EAF": 8, "Yield": 0.95 }
+  ],
+
+  "Tolerance": {
+    "APEFE": 10,
+    "APEEN": 12,
+    "Yield": 25
+  }
+}

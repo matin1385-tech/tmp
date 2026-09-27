@@ -1,0 +1,394 @@
+{
+  "job_id": "9a02eaec3d2d45f88bfe6157ab0103f8",
+  "created_at": "2026-09-27T09:48:36.803040",
+  "settings": {
+    "waterCooling": [
+      {
+        "eaf": 1,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 2,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 3,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 4,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 5,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 6,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 7,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 8,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      }
+    ],
+    "dustAnalysis": [
+      {
+        "al2o3": "",
+        "c": "",
+        "cao": "",
+        "feo": "",
+        "fem": "",
+        "mgo": "",
+        "p": "",
+        "s": "",
+        "sio2": "",
+        "tio2": ""
+      }
+    ],
+    "additives": {
+      "dolomite": {
+        "cao": 0,
+        "mgo": 0,
+        "co2": 0,
+        "c": 0,
+        "sio2": 0
+      },
+      "lime": {
+        "cao": 0,
+        "mgo": 0,
+        "co2": 0,
+        "c": 0,
+        "sio2": 0
+      },
+      "coke": {
+        "cfix": 0,
+        "ash": 0,
+        "sio2Ash": 0,
+        "volatileMatter": 0,
+        "s": 0,
+        "moisture": 0
+      },
+      "graphite": {
+        "cfix": 0,
+        "ash": 0,
+        "sio2Ash": 0,
+        "volatileMatter": 0,
+        "s": 0,
+        "moisture": 0
+      }
+    },
+    "gradeSpecs": [
+      {
+        "id": 1,
+        "grade": "",
+        "cPercent": "",
+        "temp": ""
+      }
+    ],
+    "chemicalEnergy": {
+      "rhs": {
+        "th1": 0.3,
+        "th2": 0.25,
+        "th3": 0.2,
+        "th4": 0.15
+      },
+      "eafs": [
+        {
+          "eaf": 1,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 2,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 3,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 4,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 5,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 6,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 7,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 8,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        }
+      ]
+    },
+    "longTermYield": [
+      {
+        "eaf": 1,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 2,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 3,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 4,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 5,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 6,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 7,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 8,
+        "yieldPercent": ""
+      }
+    ],
+    "thresholds": {
+      "apeFe": "",
+      "apeEnergy": "",
+      "yieldTolerance": ""
+    }
+  },
+  "rows": [
+    {
+      "heat_no": 1001,
+      "FZ": 1.02,
+      "IO": 34.5,
+      "FL": 4.1,
+      "HU": 612.3,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1002,
+      "FZ": 0.97,
+      "IO": 41.2,
+      "FL": 3.6,
+      "HU": 588.7,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1003,
+      "FZ": 1.15,
+      "IO": 28.9,
+      "FL": 5.2,
+      "HU": 701.4,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1004,
+      "FZ": 1.05,
+      "IO": 37.8,
+      "FL": 4.4,
+      "HU": 645.9,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1005,
+      "FZ": 0.89,
+      "IO": 45.6,
+      "FL": 3.1,
+      "HU": 560.2,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1006,
+      "FZ": 1.22,
+      "IO": 25.3,
+      "FL": 5.8,
+      "HU": 733.6,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1007,
+      "FZ": 1.08,
+      "IO": 33.1,
+      "FL": 4.3,
+      "HU": 628.5,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1008,
+      "FZ": 0.94,
+      "IO": 42.7,
+      "FL": 3.4,
+      "HU": 575.8,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1009,
+      "FZ": 1.11,
+      "IO": 30.4,
+      "FL": 4.7,
+      "HU": 664.1,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1010,
+      "FZ": 1.03,
+      "IO": 36.9,
+      "FL": 4.0,
+      "HU": 601.7,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1011,
+      "FZ": 1.18,
+      "IO": 27.6,
+      "FL": 5.4,
+      "HU": 712.9,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1012,
+      "FZ": 0.99,
+      "IO": 39.3,
+      "FL": 3.8,
+      "HU": 592.4,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1013,
+      "FZ": 1.07,
+      "IO": 34.8,
+      "FL": 4.2,
+      "HU": 621.0,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1014,
+      "FZ": 1.25,
+      "IO": 24.1,
+      "FL": 6.0,
+      "HU": 748.3,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1015,
+      "FZ": 1.01,
+      "IO": 38.2,
+      "FL": 3.9,
+      "HU": 598.6,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1016,
+      "FZ": 0.92,
+      "IO": 43.9,
+      "FL": 3.3,
+      "HU": 568.1,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1017,
+      "FZ": 1.13,
+      "IO": 29.5,
+      "FL": 5.0,
+      "HU": 689.7,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1018,
+      "FZ": 1.04,
+      "IO": 35.7,
+      "FL": 4.1,
+      "HU": 615.2,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1019,
+      "FZ": 0.96,
+      "IO": 40.6,
+      "FL": 3.7,
+      "HU": 583.4,
+      "status": "ACCEPTABLE"
+    },
+    {
+      "heat_no": 1020,
+      "FZ": 1.09,
+      "IO": 32.4,
+      "FL": 4.5,
+      "HU": 637.8,
+      "status": "ACCEPTABLE"
+    }
+  ],
+  "total": 20
+}

@@ -1,0 +1,242 @@
+{
+  "job_id": "902ae0a2361a44dcb8dd0508c0eb2ff2",
+  "created_at": "2026-09-27T09:41:09.714355",
+  "settings": {
+    "waterCooling": [
+      {
+        "eaf": 1,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 2,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 3,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 4,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 5,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 6,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 7,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      },
+      {
+        "eaf": 8,
+        "tInRoof": "",
+        "tInShell": "",
+        "tOutRoof": "",
+        "tOutShell": "",
+        "roofDebit": "",
+        "shellDebit": ""
+      }
+    ],
+    "dustAnalysis": [
+      {
+        "al2o3": "",
+        "c": "",
+        "cao": "",
+        "feo": "",
+        "fem": "",
+        "mgo": "",
+        "p": "",
+        "s": "",
+        "sio2": "",
+        "tio2": ""
+      }
+    ],
+    "additives": {
+      "dolomite": {
+        "cao": 0,
+        "mgo": 0,
+        "co2": 0,
+        "c": 0,
+        "sio2": 0
+      },
+      "lime": {
+        "cao": 0,
+        "mgo": 0,
+        "co2": 0,
+        "c": 0,
+        "sio2": 0
+      },
+      "coke": {
+        "cfix": 0,
+        "ash": 0,
+        "sio2Ash": 0,
+        "volatileMatter": 0,
+        "s": 0,
+        "moisture": 0
+      },
+      "graphite": {
+        "cfix": 0,
+        "ash": 0,
+        "sio2Ash": 0,
+        "volatileMatter": 0,
+        "s": 0,
+        "moisture": 0
+      }
+    },
+    "gradeSpecs": [
+      {
+        "id": 1,
+        "grade": "",
+        "cPercent": "",
+        "temp": ""
+      }
+    ],
+    "chemicalEnergy": {
+      "rhs": {
+        "th1": 0.3,
+        "th2": 0.25,
+        "th3": 0.2,
+        "th4": 0.15
+      },
+      "eafs": [
+        {
+          "eaf": 1,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 2,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 3,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 4,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 5,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 6,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 7,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        },
+        {
+          "eaf": 8,
+          "th1": "",
+          "th2": "",
+          "th3": ""
+        }
+      ]
+    },
+    "longTermYield": [
+      {
+        "eaf": 1,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 2,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 3,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 4,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 5,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 6,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 7,
+        "yieldPercent": ""
+      },
+      {
+        "eaf": 8,
+        "yieldPercent": ""
+      }
+    ],
+    "thresholds": {
+      "apeFe": "",
+      "apeEnergy": "",
+      "yieldTolerance": ""
+    }
+  },
+  "rows": [
+    {
+      "heat_no": 1001,
+      "FZ": 1.0,
+      "IO": 30.0,
+      "FL": 4.0,
+      "HU": 600.0,
+      "status": "ACCEPTABLE"
+    }
+  ],
+  "total": 1
+}
